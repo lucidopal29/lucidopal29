@@ -1,6 +1,6 @@
-hi ^w^!!! i'm opal,, and i'm genderfluid!!!
-oh yeah- and i like video games and nerdy tech stuff...
-probably should've mentioned that first, hehe :3
+- i'm opal, your average genderfluid highschool student :3 
+- i like tech and i'm a bit of a cryptography nerd
+- check my keybase for where you can reach me ^w^
 
 <!---
 lucidopal29/lucidopal29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
